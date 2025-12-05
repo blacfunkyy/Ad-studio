@@ -1,0 +1,5 @@
+{
+  "name": "Ad creator",
+  "description": "A powerful UI to generate compelling ad creatives. Users can specify headers, descriptions, prices, and images, then choose a creative style to let AI generate a professional-looking ad.",
+  "requestFramePermissions": []
+}
